@@ -5,7 +5,7 @@ import time
 
 st.set_page_config(layout="wide")
 
-API_URL = "https://your-app-name.onrender.com/data"
+API_URL = "https://smart-irrigation-monitoring1.onrender.com"
 
 data_store = []
 
